@@ -1,0 +1,15 @@
+C:\Users\USUARIO HP\source\repos\SaveFTP\SaveFTP\obj\Debug\net6.0\SaveFTP.csproj.AssemblyReference.cache
+C:\Users\USUARIO HP\source\repos\SaveFTP\SaveFTP\obj\Debug\net6.0\SaveFTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO HP\source\repos\SaveFTP\SaveFTP\obj\Debug\net6.0\SaveFTP.AssemblyInfoInputs.cache
+C:\Users\USUARIO HP\source\repos\SaveFTP\SaveFTP\obj\Debug\net6.0\SaveFTP.AssemblyInfo.cs
+C:\Users\USUARIO HP\source\repos\SaveFTP\SaveFTP\obj\Debug\net6.0\SaveFTP.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO HP\source\repos\SaveFTP\SaveFTP\bin\Debug\net6.0\SaveFTP.exe
+C:\Users\USUARIO HP\source\repos\SaveFTP\SaveFTP\bin\Debug\net6.0\SaveFTP.deps.json
+C:\Users\USUARIO HP\source\repos\SaveFTP\SaveFTP\bin\Debug\net6.0\SaveFTP.runtimeconfig.json
+C:\Users\USUARIO HP\source\repos\SaveFTP\SaveFTP\bin\Debug\net6.0\SaveFTP.dll
+C:\Users\USUARIO HP\source\repos\SaveFTP\SaveFTP\bin\Debug\net6.0\SaveFTP.pdb
+C:\Users\USUARIO HP\source\repos\SaveFTP\SaveFTP\obj\Debug\net6.0\SaveFTP.dll
+C:\Users\USUARIO HP\source\repos\SaveFTP\SaveFTP\obj\Debug\net6.0\refint\SaveFTP.dll
+C:\Users\USUARIO HP\source\repos\SaveFTP\SaveFTP\obj\Debug\net6.0\SaveFTP.pdb
+C:\Users\USUARIO HP\source\repos\SaveFTP\SaveFTP\obj\Debug\net6.0\SaveFTP.genruntimeconfig.cache
+C:\Users\USUARIO HP\source\repos\SaveFTP\SaveFTP\obj\Debug\net6.0\ref\SaveFTP.dll
